@@ -13,10 +13,18 @@ span {
     font-family: 'Times New Roman', Times, serif;
 }
 
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .link {
     color: lightskyblue;
 }
 
 .grigio {
     color: gray
+}
+
+.piccolo{
+    font-size: 10px;
 }
