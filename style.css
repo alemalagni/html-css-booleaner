@@ -1,7 +1,13 @@
-div {
+header {
     /* Colore dello sfondo */
     background-color: rgb(99, 158, 248);
-    background-image: "img/pattern";
+    background-image: url("img/pattern.png");
+    background-size: 70%;
+}
+
+div {
+    height: 50pz;
+    width: 50pz;
 }
 
 h1 {
