@@ -5,9 +5,8 @@ header {
     background-size: 70%;
 }
 
-div {
-    height: 50pz;
-    width: 50pz;
+.logo {
+    width: 200px;
 }
 
 h1 {
