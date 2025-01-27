@@ -31,15 +31,21 @@ p {
     color: gray;
 }
 
-.piccolo{
+.piccolo {
     font-size: 10px;
 }
 
-.gp{
+.gp {
     color: gray;
     font-size: 12px;
 }
 
-.evide{
+.evide {
     background-color: yellow;
+}
+
+thead{
+    background-color: rgb(81, 166, 223);
+    color: white;
+    text-align: center;
 }
