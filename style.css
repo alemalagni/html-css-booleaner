@@ -72,8 +72,13 @@ td{
 
 .uno{
     background-image: url("img/monitor.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    
 }
 
 .due{
     background-image: url("img/graph.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
 }
