@@ -45,12 +45,23 @@ p {
     background-color: yellow;
 }
 
-thead{
-    background-color: rgb(81, 166, 223);
-    color: white;
-    text-align: center;
-}
-
 .riga{
     background-color: rgb(188, 227, 240);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(81, 166, 223);
+    color: white;
+    text-align: left;
+    height: 100%;
+    border: 0px;
+}
+
+td{
+    border: 0px;
 }
