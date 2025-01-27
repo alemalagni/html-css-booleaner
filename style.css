@@ -65,3 +65,15 @@ th {
 td{
     border: 0px;
 }
+
+.uno,.due {
+    color: white;
+}
+
+.uno{
+    background-image: url("img/monitor.jpg");
+}
+
+.due{
+    background-image: url("img/graph.jpg");
+}
