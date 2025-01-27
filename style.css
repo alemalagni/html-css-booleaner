@@ -5,15 +5,23 @@ header {
     height: 100px;
 }
 
+main{
+    padding-left: 100px;
+    padding-right: 300px;
+}
+
 .logo {
     width: 200px;
     padding: 50px 0;
+    padding-left: 100px;
+    padding-right: 300px;
 }
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 200%;
+    text-align: justify;
 }
 
 span {
