@@ -1,3 +1,9 @@
+div {
+    /* Colore dello sfondo */
+    background-color: rgb(99, 158, 248);
+    background-image: "img/pattern";
+}
+
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
