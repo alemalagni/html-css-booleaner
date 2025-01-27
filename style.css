@@ -22,9 +22,14 @@ p {
 }
 
 .grigio {
-    color: gray
+    color: gray;
 }
 
 .piccolo{
     font-size: 10px;
+}
+
+.gp{
+    color: gray;
+    font-size: 12px;
 }
